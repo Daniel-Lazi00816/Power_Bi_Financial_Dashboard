@@ -7,6 +7,6 @@ Introduction:
 	
 Project Status 11/17/2022:
 
-	As of 11/17/2022 being able to successfully categorize all expenses in a way that is illustrative. Going forward I will begin to better categorize all of my savings between “cash” and “mutual funds.” However, some things still need to be ironed out, in particular I need to get my net income calculator DAX formula working and polish off the trend line which compares saving percentage, expense percentage to changes in my income. 	
+	As of 11/17/2022 being able to successfully categorize all expenses in a way that is illustrative. Going forward I will begin to better categorize all of my savings between ï¿½cashï¿½ and ï¿½mutual funds.ï¿½ However, some things still need to be ironed out, in particular I need to get my net income calculator DAX formula working and polish off the trend line which compares saving percentage, expense percentage to changes in my income. 	
 
 
