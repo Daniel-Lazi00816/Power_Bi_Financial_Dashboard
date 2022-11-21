@@ -9,7 +9,7 @@ There are a few things I hope that this dashboard will show. The first being exp
 	
 Then I want to create a graph that shows how those two metrics saving percentage and expense percentage stack up in a trend line graph to the overall change in my income changes. 
 	
-## Project Status 11/17/2022:
+## Project Status 11/21/2022:
 
 As of 11/17/2022 being able to successfully categorize all expenses in a way that is illustrative. Going forward I will begin to better categorize all of my savings between cash and mutual funds.
 
